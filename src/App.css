@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background: #141414;
+    -webkit-font-smoothing: antialiased;
+    max-width: 936px;
+    heigth: 100vh;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden; 
+  }

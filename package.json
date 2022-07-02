@@ -1,0 +1,36 @@
+{
+  "name": "template-teste-react-dev-jr",
+  "version": "1.0.0",
+  "description": "Template do teste para a vaga de Desenvolvedor React Júnior, na empresa Mundo Wap.",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@types/react-router-dom": "5.3.3",
+    "@types/styled-components": "5.1.22",
+    "axios": "0.25.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "7.26.1",
+    "react-router-dom": "6.2.1",
+    "react-scripts": "4.0.3",
+    "styled-components": "5.3.3",
+    "yup": "0.32.11"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
